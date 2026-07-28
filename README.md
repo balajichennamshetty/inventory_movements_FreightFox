@@ -34,14 +34,9 @@ source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## Run
 
-```bash
-streamlit run app.py
-```
 
-The app opens at `http://localhost:8501`. Make sure `inventory_movements.csv` sits in the
-same folder as `app.py` (or edit the path passed to `load_data()` in `app.py`).
+The app opens at `[http://localhost:8501](https://inventorymovementsfreightfox-xtxgfwgjpsvrrwgh92ojrx.streamlit.app/)`.
 
 ## Data Quality Rules Applied
 
