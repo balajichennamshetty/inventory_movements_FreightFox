@@ -22,7 +22,7 @@ at any time.
 | File | Purpose |
 |---|---|
 | `app.py` | Main Streamlit application (pages, charts, layout) |
-| `utils.py` | Data loading, cleaning, validation, KPI and insight-generation functions |
+| `Warehouse_inventory_Analytics.ipynb` | Data loading, cleaning, validation, KPI and insight-generation functions |
 | `inventory_movements.csv` | Source dataset |
 | `requirements.txt` | Python dependencies |
 
