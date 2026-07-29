@@ -1,5 +1,6 @@
 Candidate Name: Balaji Chennamshetty
-Date 29/07/2026
+
+Date: 29/07/2026
 
 Q1. Which warehouse has the highest stock discrepancy rate, and what's actually driving it?
 Answer
