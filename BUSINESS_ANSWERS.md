@@ -5,6 +5,8 @@ Findings:
 
 WH_06 has the highest stock discrepancy rate at 11.29%, followed closely by WH_01 (10.03%) and WH_05 (9.68%).
 Discrepancies are driven by various movement_types across all warehouses. For WH_06, Outbound (30), Inbound (25), and Transfer (19) movements accounted for the majority of discrepancies.
+<img width="604" height="281" alt="image" src="https://github.com/user-attachments/assets/40607208-bde0-4a21-95af-708f5627cdcc" />
+
 Recommendations:
 
 Conduct a thorough audit of processes at WH_06, particularly focusing on Outbound, Inbound, and Transfer operations, to identify root causes of errors (e.g., manual handling errors, system issues, lack of training).
